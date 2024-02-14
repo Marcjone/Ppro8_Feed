@@ -1,0 +1,540 @@
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Feed.exe.config
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Feed.exe
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Feed.pdb
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\obj\Debug\Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\obj\Debug\Feed.Form1.resources
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\obj\Debug\Feed.Properties.Resources.resources
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\obj\Debug\Feed.exe
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\obj\Debug\Feed.pdb
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\mongocrypt.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\AWSSDK.Core.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\DnsClient.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\MongoDB.Bson.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\MongoDB.Driver.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\SharpCompress.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Snappier.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Buffers.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Memory.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\ZstdSharp.dll
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\AWSSDK.Core.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\DnsClient.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\MongoDB.Bson.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\MongoDB.Driver.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\Snappier.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Buffers.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Memory.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Trader\Desktop\Projekty\Feed\Feed\obj\Debug\Feed.csproj.CopyComplete
+D:\Source\Feed\Feed\bin\Debug\mongocrypt.dll
+D:\Source\Feed\Feed\bin\Debug\Feed.exe.config
+D:\Source\Feed\Feed\bin\Debug\Feed.exe
+D:\Source\Feed\Feed\bin\Debug\Feed.pdb
+D:\Source\Feed\Feed\bin\Debug\AWSSDK.Core.dll
+D:\Source\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+D:\Source\Feed\Feed\bin\Debug\DnsClient.dll
+D:\Source\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Source\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Source\Feed\Feed\bin\Debug\MongoDB.Bson.dll
+D:\Source\Feed\Feed\bin\Debug\MongoDB.Driver.Core.dll
+D:\Source\Feed\Feed\bin\Debug\MongoDB.Driver.dll
+D:\Source\Feed\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Source\Feed\Feed\bin\Debug\SharpCompress.dll
+D:\Source\Feed\Feed\bin\Debug\Snappier.dll
+D:\Source\Feed\Feed\bin\Debug\System.Buffers.dll
+D:\Source\Feed\Feed\bin\Debug\System.Memory.dll
+D:\Source\Feed\Feed\bin\Debug\System.Numerics.Vectors.dll
+D:\Source\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Source\Feed\Feed\bin\Debug\System.Security.AccessControl.dll
+D:\Source\Feed\Feed\bin\Debug\System.Security.Principal.Windows.dll
+D:\Source\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Source\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Source\Feed\Feed\bin\Debug\ZstdSharp.dll
+D:\Source\Feed\Feed\bin\Debug\AWSSDK.Core.pdb
+D:\Source\Feed\Feed\bin\Debug\AWSSDK.Core.xml
+D:\Source\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\Source\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Source\Feed\Feed\bin\Debug\DnsClient.xml
+D:\Source\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Source\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Source\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Source\Feed\Feed\bin\Debug\MongoDB.Bson.xml
+D:\Source\Feed\Feed\bin\Debug\MongoDB.Driver.xml
+D:\Source\Feed\Feed\bin\Debug\MongoDB.Driver.Core.xml
+D:\Source\Feed\Feed\bin\Debug\Snappier.xml
+D:\Source\Feed\Feed\bin\Debug\System.Buffers.xml
+D:\Source\Feed\Feed\bin\Debug\System.Memory.xml
+D:\Source\Feed\Feed\bin\Debug\System.Numerics.Vectors.xml
+D:\Source\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Source\Feed\Feed\bin\Debug\System.Security.AccessControl.xml
+D:\Source\Feed\Feed\bin\Debug\System.Security.Principal.Windows.xml
+D:\Source\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Source\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Source\Feed\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+D:\Source\Feed\Feed\obj\Debug\Feed.csproj.SuggestedBindingRedirects.cache
+D:\Source\Feed\Feed\obj\Debug\Feed.Form1.resources
+D:\Source\Feed\Feed\obj\Debug\Feed.Properties.Resources.resources
+D:\Source\Feed\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+D:\Source\Feed\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+D:\Source\Feed\Feed\obj\Debug\Feed.csproj.CopyComplete
+D:\Source\Feed\Feed\obj\Debug\Feed.exe
+D:\Source\Feed\Feed\obj\Debug\Feed.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\mongocrypt.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Feed.exe.config
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Feed.exe
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Feed.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.Core.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\DnsClient.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Bson.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Driver.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\SharpCompress.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Snappier.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Buffers.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Memory.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\ZstdSharp.dll
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.Core.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\DnsClient.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Bson.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Driver.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\Snappier.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Buffers.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Memory.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\obj\Debug\Feed.Form1.resources
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\obj\Debug\Feed.Properties.Resources.resources
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.CopyComplete
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\obj\Debug\Feed.exe
+C:\Users\Trader\Downloads\Telegram Desktop\Feed+L2Live\Feed\Feed\obj\Debug\Feed.pdb
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\mongocrypt.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Feed.exe.config
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Feed.exe
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Feed.pdb
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.Core.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\DnsClient.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Bson.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Driver.Core.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Driver.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\SharpCompress.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Snappier.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Buffers.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Memory.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Numerics.Vectors.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Security.AccessControl.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Security.Principal.Windows.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\ZstdSharp.dll
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.Core.pdb
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.Core.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\DnsClient.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Bson.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Driver.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\MongoDB.Driver.Core.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\Snappier.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Buffers.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Memory.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Numerics.Vectors.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Security.AccessControl.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Security.Principal.Windows.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Source\Feed\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+D:\Source\Feed\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.SuggestedBindingRedirects.cache
+D:\Source\Feed\Feed+L2Live\Feed\Feed\obj\Debug\Feed.Form1.resources
+D:\Source\Feed\Feed+L2Live\Feed\Feed\obj\Debug\Feed.Properties.Resources.resources
+D:\Source\Feed\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+D:\Source\Feed\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+D:\Source\Feed\Feed+L2Live\Feed\Feed\obj\Debug\Feed.csproj.CopyComplete
+D:\Source\Feed\Feed+L2Live\Feed\Feed\obj\Debug\Feed.exe
+D:\Source\Feed\Feed+L2Live\Feed\Feed\obj\Debug\Feed.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\mongocrypt.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Feed.exe.config
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Feed.exe
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Feed.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.Core.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\DnsClient.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Bson.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Driver.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\SharpCompress.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Snappier.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Buffers.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Memory.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\ZstdSharp.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.Core.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\DnsClient.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Bson.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Driver.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\Snappier.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Buffers.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Memory.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.Form1.resources
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.Properties.Resources.resources
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.CopyComplete
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.exe
+C:\Users\Trader\Downloads\Telegram Desktop\FeedTempBuffer\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\mongocrypt.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Feed.exe.config
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Feed.exe
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Feed.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.Core.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\DnsClient.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Bson.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Driver.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\SharpCompress.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Snappier.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Buffers.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Memory.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\ZstdSharp.dll
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.Core.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\DnsClient.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Bson.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Driver.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\Snappier.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Buffers.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Memory.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.Form1.resources
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.Properties.Resources.resources
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.csproj.CopyComplete
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.exe
+C:\Users\Trader\Downloads\Telegram Desktop\FeedMultiPort\Feed_temp_Buffer\Feed\Feed\obj\Debug\Feed.pdb
+D:\Source\FeedMultiPort\Feed\bin\Debug\mongocrypt.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\Feed.exe.config
+D:\Source\FeedMultiPort\Feed\bin\Debug\Feed.exe
+D:\Source\FeedMultiPort\Feed\bin\Debug\Feed.pdb
+D:\Source\FeedMultiPort\Feed\bin\Debug\AWSSDK.Core.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\DnsClient.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\MongoDB.Bson.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\MongoDB.Driver.Core.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\MongoDB.Driver.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\SharpCompress.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\Snappier.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Buffers.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Memory.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Numerics.Vectors.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Security.AccessControl.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Security.Principal.Windows.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\ZstdSharp.dll
+D:\Source\FeedMultiPort\Feed\bin\Debug\AWSSDK.Core.pdb
+D:\Source\FeedMultiPort\Feed\bin\Debug\AWSSDK.Core.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\Source\FeedMultiPort\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\DnsClient.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\MongoDB.Bson.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\MongoDB.Driver.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\MongoDB.Driver.Core.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\Snappier.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Buffers.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Memory.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Numerics.Vectors.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Security.AccessControl.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Security.Principal.Windows.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Source\FeedMultiPort\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Source\FeedMultiPort\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+D:\Source\FeedMultiPort\Feed\obj\Debug\Feed.csproj.SuggestedBindingRedirects.cache
+D:\Source\FeedMultiPort\Feed\obj\Debug\Feed.Form1.resources
+D:\Source\FeedMultiPort\Feed\obj\Debug\Feed.Properties.Resources.resources
+D:\Source\FeedMultiPort\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+D:\Source\FeedMultiPort\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+D:\Source\FeedMultiPort\Feed\obj\Debug\Feed.csproj.CopyComplete
+D:\Source\FeedMultiPort\Feed\obj\Debug\Feed.exe
+D:\Source\FeedMultiPort\Feed\obj\Debug\Feed.pdb
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\mongocrypt.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Feed.exe.config
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Feed.exe
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Feed.pdb
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\AWSSDK.Core.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\DnsClient.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\MongoDB.Bson.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\MongoDB.Driver.Core.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\MongoDB.Driver.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\SharpCompress.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Snappier.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Buffers.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Memory.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Numerics.Vectors.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Security.AccessControl.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Security.Principal.Windows.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\ZstdSharp.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\AWSSDK.Core.pdb
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\AWSSDK.Core.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\DnsClient.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\MongoDB.Bson.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\MongoDB.Driver.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\MongoDB.Driver.Core.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\Snappier.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Buffers.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Memory.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Numerics.Vectors.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Security.AccessControl.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Security.Principal.Windows.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\obj\Debug\Feed.csproj.SuggestedBindingRedirects.cache
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\obj\Debug\Feed.Form1.resources
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\obj\Debug\Feed.Properties.Resources.resources
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\obj\Debug\Feed.csproj.CopyComplete
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\obj\Debug\Feed.exe
+\\PERSONALCLOUD\Public\MarcJone\Source\FeedMultiCollection\Feed\obj\Debug\Feed.pdb
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\mongocrypt.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Feed.exe.config
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Feed.exe
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Feed.pdb
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\AWSSDK.Core.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\DnsClient.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\MongoDB.Bson.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\MongoDB.Driver.Core.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\MongoDB.Driver.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\SharpCompress.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Snappier.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Buffers.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Memory.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Numerics.Vectors.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Security.AccessControl.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Security.Principal.Windows.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\ZstdSharp.dll
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\AWSSDK.Core.pdb
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\AWSSDK.Core.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\DnsClient.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\MongoDB.Bson.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\MongoDB.Driver.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\MongoDB.Driver.Core.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\Snappier.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Buffers.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Memory.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Numerics.Vectors.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Security.AccessControl.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Security.Principal.Windows.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\obj\Debug\Feed.Form1.resources
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\obj\Debug\Feed.Properties.Resources.resources
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\obj\Debug\Feed.csproj.CopyComplete
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\obj\Debug\Feed.exe
+\\PERSONALCLOUD\Public\MarcJone\Source\Feed\Feed\obj\Debug\Feed.pdb
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\mongocrypt.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Feed.exe.config
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Feed.exe
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Feed.pdb
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\AWSSDK.Core.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\DnsClient.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\MongoDB.Bson.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\MongoDB.Driver.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\SharpCompress.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Snappier.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Buffers.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Memory.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\ZstdSharp.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\AWSSDK.Core.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\DnsClient.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\MongoDB.Bson.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\MongoDB.Driver.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Snappier.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Buffers.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Memory.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\obj\Debug\Feed.csproj.AssemblyReference.cache
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\obj\Debug\Feed.Form1.resources
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\obj\Debug\Feed.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\obj\Debug\Feed.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\obj\Debug\Feed.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\obj\Debug\Feed.csproj.CopyComplete
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\obj\Debug\Feed.exe
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\obj\Debug\Feed.pdb
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marcin\Desktop\Na githuba\Feed\Feed\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
